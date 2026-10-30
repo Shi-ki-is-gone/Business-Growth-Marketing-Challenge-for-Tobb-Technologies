@@ -4,7 +4,7 @@
 
 ### Project overview
 
-This project proposes a practical digital marketing campaign to improve the visibility of Tobb Technologies, explain its services to a wider audience, and encourage potential clients to make contact. The campaign uses TikTok as its main short-form video platform, supported by Instagram and Facebook.
+This project proposes a practical digital marketing campaign to improve the visibility of Tobb Technologies, explain its services to a wider audience, and encourage potential clients to make contact. The campaign uses TikTok as its main short-form video platform, supported by Instagram and Facebook. Improvement on local demonstrations.
 
 ### The opportunity
 
@@ -14,7 +14,7 @@ This proposal treats limited visibility as an opportunity to investigate and add
 
 ### Proposed idea
 
-Run a simple, repeatable social media campaign featuring short videos and posts that: - introduce Tobb Technologies and its services; - show practical examples of technology work and projects, where permission has been granted; - share short, useful technology tips; - highlight training activities and company achievements; - invite viewers to visit the company website or contact the team.
+Run a simple, repeatable social media campaign featuring short videos and posts that: - introduce Tobb Technologies and its services; - show practical examples of technology work and projects, where permission has been granted, share short, useful technology tips, highlight training activities and company achievements. Invite viewers to visit the company website or contact the team. And make local events more interesting and doable through online means 
 
 ### Target audience
 
@@ -40,8 +40,7 @@ The campaign aims to improve awareness, increase visits to Tobb's online channel
     Reels and Facebook.
 5.  Respond professionally to comments and direct enquiries.
 6.  Review analytics weekly and improve content based on results.
-7.  If a small advertising budget is approved, test a geographically
-    relevant campaign and compare its results with organic posts.
+7.  Improve the local events handled 
 
 ### Suggested content themes
 
@@ -51,6 +50,9 @@ The campaign aims to improve awareness, increase visits to Tobb's online channel
 -   **Behind the scenes:** an appropriate look at the team's work or learning activities.
 -   **What Tobb technologies can help:** a clear explanation of a service and how to
     enquire.
+-   **What Tobb technologies events can improve :** Improvement on local events and incentives 
+    
+    
 
 ### How Tobb could use this idea
 
