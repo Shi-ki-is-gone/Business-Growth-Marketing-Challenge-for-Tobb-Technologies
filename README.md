@@ -4,32 +4,17 @@
 
 ### Project overview
 
-This project proposes a practical digital marketing campaign to improve
-the visibility of Tobb Technologies, explain its services to a wider
-audience, and encourage potential clients to make contact. The campaign
-uses TikTok as its main short-form video platform, supported by
-Instagram and Facebook.
+This project proposes a practical digital marketing campaign to improve the visibility of Tobb Technologies, explain its services to a wider audience, and encourage potential clients to make contact. The campaign uses TikTok as its main short-form video platform, supported by Instagram and Facebook.
 
 ### The opportunity
 
-A possible growth opportunity for Tobb Technologies is to strengthen its
-local presence and make more people aware of what the company offers.
-People who have not previously interacted with Tobb may not know about
-its IT services, projects, training activities, or the value it could
-provide to organisations.
+A possible growth opportunity for Tobb Technologies is to strengthen its local presence and make more people aware of what the company offers. People who have not previously interacted with Tobb may not know about its IT services, projects, training activities, or the value it could provide to organisations.
 
-This proposal treats limited visibility as an opportunity to investigate
-and address; it does not assume that the company has no existing
-marketing activity.
+This proposal treats limited visibility as an opportunity to investigate and address; it does not assume that the company has no existing marketing activity.
 
 ### Proposed idea
 
-Run a simple, repeatable social media campaign featuring short videos
-and posts that: - introduce Tobb Technologies and its services; - show
-practical examples of technology work and projects, where permission has
-been granted; - share short, useful technology tips; - highlight
-training activities and company achievements; - invite viewers to visit
-the company website or contact the team.
+Run a simple, repeatable social media campaign featuring short videos and posts that: - introduce Tobb Technologies and its services; - show practical examples of technology work and projects, where permission has been granted; - share short, useful technology tips; - highlight training activities and company achievements; - invite viewers to visit the company website or contact the team.
 
 ### Target audience
 
@@ -43,15 +28,7 @@ the company website or contact the team.
 
 ### Business value
 
-The campaign aims to improve awareness, increase visits to Tobb's online
-channels, generate relevant enquiries, and create opportunities for new
-client relationships. South African digital research indicates that
-social media has a substantial potential audience. DataReportal
-estimated 29.1 million social media user identities in South Africa in
-October 2025. It also reported TikTok advertising tools indicated a
-potential adult audience of 29.1 million in late 2025. These are
-platform advertising estimates, not confirmed counts of unique active
-users (DataReportal, 2026).
+The campaign aims to improve awareness, increase visits to Tobb's online channels, generate relevant enquiries, and create opportunities for new client relationships. South African digital research indicates that social media has a substantial potential audience. DataReportal estimated 29.1 million social media user identities in South Africa in October 2025. It also reported TikTok advertising tools indicated a potential adult audience of 29.1 million in late 2025. These are platform advertising estimates, not confirmed counts of unique active users (DataReportal, 2026).
 
 ### Campaign approach
 
@@ -69,17 +46,12 @@ users (DataReportal, 2026).
 ### Suggested content themes
 
 -   **Introduction of Thobbs:** a short introduction to the company and what it does.
--   **Technology in practice:** a permitted demonstration of a service,
-    project, or technical task.
+-   **Technology in practice:** a permitted demonstration of a service, project, or technical task.
 -   **Quick tech tip:** a useful, easy-to-understand technology tip.
--   **Behind the scenes:** an appropriate look at the team's work or
-    learning activities.
+-   **Behind the scenes:** an appropriate look at the team's work or learning activities.
 -   **What Tobb technologies can help:** a clear explanation of a service and how to
     enquire.
 
 ### How Tobb could use this idea
 
-Tobb can use the proposal as a starting point for a one-month pilot. The
-company should approve all claims, images, client references, staff
-appearances, and contact details before publication. The campaign can
-then be adjusted using engagement and enquiry data.
+Tobb can use the proposal as a starting point for a one-month pilot. The company should approve all claims, images, client references, staff appearances, and contact details before publication. The campaign canthen be adjusted using engagement and enquiry data.
