@@ -34,7 +34,7 @@ The content would revolve around five topics:
 Each post will contain a short caption, relevant hashtags, use such as "Visit our website to find out more" or "Contact Tobb Technologies to discuss your IT needs" at the end of videos and profile. The company should be asked to confirm the web address and contact information prior to the publication.
 
 ## 5. Target audience
-- SMEs which may require IT services or assistance.
+- SMEs(Small and Medium Enterprises) which may require IT services or assistance.
 - Organizations which are searching for technology solutions or technology service provider.
 - Students and younger generation who are passionate about technology, skill and training.
 - Potential partners.
