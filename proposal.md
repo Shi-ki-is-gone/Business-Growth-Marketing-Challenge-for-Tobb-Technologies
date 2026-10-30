@@ -4,19 +4,15 @@
 
 ## 1. Introduction
 
-Proposal for this issue involves Tobb Technologies increasing their local visibility through a social media campaign. The platform to be used is TikTok, which will feature content that can also be used on Instagram and Facebook. The campaign involves the use of video clips, information concerning technological issues, and contact information, which will make it easier for people to understand the activities of Tobb and inquire about their services. This opportunity is from my observations: Tobb would do well by increasing their visibility among people and organizations that are unaware of their services and activities. This is an opportunity to investigate further and not a claim that Tobb is currently invisible in terms of marketing.
+Proposal for this issue involves Tobb Technologies increasing their local visibility through a social media campaign. The platform to be used is TikTok, which will feature content that can also be used on Instagram and Facebook. The campaign involves the use of video clips, information concerning technological issues, and contact information, which will make it easier for people to understand the activities of Tobb and inquire about their services. This opportunity is from my observations: Tobb would do well by increasing their visibility among people and organizations that are unaware of their services and activities. This is an opportunity to investigate further and not a claim that Tobb is currently invisible in terms of marketing. With also the improvement of local events with also making them not only be accessible offline.
 
 ## 2. Marketing opportunity
 
-Although an organization may be providing good services, it may miss out on customers if they do not know what services the organization provides. The problem with Tobb Technologies is that people might not associate the company with any IT support, technology services, or technology partners if they do not know much about the organization.
-
-The advantage would be to utilise digital platforms to educate people about the company, its capabilities, and how people can contact it. This would allow Tobb to reach out to people who may not have known the organization otherwise.
+Although an organization may be providing good services, it may miss out on customers if they do not know what services the organization provides. The problem with Tobb Technologies is that people might not associate the company with any IT support, technology services, or technology partners if they do not know much about the organization. The advantage would be to utilize digital platforms to educate people about the company, its capabilities, and how people can contact it. This would allow Tobb to reach out to people who may not have known the organization otherwise. The improvement locally will cause more people to share the company and improvement of event hosting to push interesting locally and push beyond 
 
 ## 3. Justification
 
-Social media enables an organisation to communicate to its masses and share information continuously. According to the Digital 2026 report of DataReportal, there were 29.1 million social media user identities in South Africa by October 2025. It was also found that TikTok's advertising resources indicated that there could be an adult advertising audience of 29.1 million in late 2025 (DataReportal, 2026). This is the information about the reach and social media identities; it should not be considered as a count of unique individuals or an assurance that the campaign will reach those many people.
-
-TikTok for Business suggests using vertical mobile-first videos, capturing attention instantly, communicating benefits and adding a call-to-action. According to the small business video guide of TikTok for Business, videos should be short and dynamic (TikTok for Business, n.d.). The strategy is well suited for the campaign to explain Tobb's services in simple visual examples.
+Social media enables an organisation to communicate to its masses and share information continuously. According to the Digital 2026 report of DataReportal, there were 29.1 million social media user identities in South Africa by October 2025. It was also found that TikTok's advertising resources indicated that there could be an adult advertising audience of 29.1 million in late 2025 (DataReportal, 2026). This is the information about the reach and social media identities; it should not be considered as a count of unique individuals or an assurance that the campaign will reach those many people .TikTok for Business suggests using vertical mobile-first videos, capturing attention instantly, communicating benefits and adding a call-to-action. According to the small business video guide of TikTok for Business, videos should be short and dynamic (TikTok for Business, n.d.). The strategy is well suited for the campaign to explain Tobb's services in simple visual examples. I also think that local events have not been great from the number of participants and involvement. We need to push events to more people and that has to be through adverts, videos and pushing more for local means example pushing more showcase to schools and looking for businesses   
 
 ## 4. Proposed solution
 
@@ -30,6 +26,7 @@ The content would revolve around five topics:
 3.  **Tech tip:** Provide one practical piece of advice regarding technology or IT in short video format.
 4.  **Behind the scenes:** Showcase the selected moments of the team's work, learning, or preparation process, with permission from the participants.
 5.  **What Tobb technologies works with** Explain a particular service, specify the type of clients who may benefit from it, and suggest how to make an enquiry.
+6.  **What Tobb technologies events can improve :** Improvement on local events and incentives 
 
 Each post will contain a short caption, relevant hashtags, use such as "Visit our website to find out more" or "Contact Tobb Technologies to discuss your IT needs" at the end of videos and profile. The company should be asked to confirm the web address and contact information prior to the publication.
 
@@ -83,7 +80,7 @@ No sensitive information about the client, password and internal systems should 
 
 ## 8. Expected benefits
 
-This campaign will have the following objectives: - increase awareness of Tobb Technologies and its products; - make the company easy to find on the Internet; - drive more people interested in the company to its website or contact page; - generate opportunities for business inquiries and cooperation; - establish trust by demonstrating approved samples of the company’s work; - learn which messages and services are popular among the audience.
+This campaign will have the following objectives: increase awareness of Tobb Technologies and its products, make the company easy to find on the Internet, drive more people interested in the company to its website or contact page, generate opportunities for business inquiries and cooperation, establish trust by demonstrating approved samples of the company’s work, learn which messages and services are popular among the audience, displaying objectives and what the company is about. 
 
 These are expected results, not guarantees. The one-month pilot will help understand if the chosen strategy works.
 ## 9. Measuring success
@@ -110,6 +107,8 @@ Before publishing, Tobb should record its current social media and website perfo
 
   Relevant enquiries                  Whether potential clients or
                                       partners made contact
+
+  Online events logs                 How many clients logged in                   
   -----------------------------------------------------------------------
 
 The main business measure should be the number of relevant enquiries received, rather than views alone. Tobb can use a trackable link or ask new enquirers how they heard about the company. At the end of the pilot, compare the results with the baseline and decide whether to continue, adjust the content, or test paid advertising.
