@@ -14,7 +14,7 @@ This proposal treats limited visibility as an opportunity to investigate and add
 
 ### Proposed idea
 
-Run a simple, repeatable social media campaign featuring short videos and posts that: - introduce Tobb Technologies and its services; - show practical examples of technology work and projects, where permission has been granted, share short, useful technology tips, highlight training activities and company achievements. Invite viewers to visit the company website or contact the team. And make local events more interesting and doable through online means 
+Run a simple, repeatable social media campaign featuring short videos and posts that: introduce Tobb Technologies and its services, show practical examples of technology work and projects, where permission has been granted, share short, useful technology tips, highlight training activities and company achievements. Invite viewers to visit the company website or contact the team. And make local events more interesting and doable through online means 
 
 ### Target audience
 
@@ -23,8 +23,7 @@ Run a simple, repeatable social media campaign featuring short videos and posts 
 -   Organisations looking for technology solutions or service providers.
 -   Students and young people interested in technology and training
     opportunities.
--   Potential partners who may be interested in working with Tobb
-    Technologies.
+-   Potential partners who may be interested in working with Tobb  Technologies.
 
 ### Business value
 
